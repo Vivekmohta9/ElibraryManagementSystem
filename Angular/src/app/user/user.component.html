@@ -1,0 +1,27 @@
+<div class="container" style="margin-top:5%">
+  <script src= "https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0/js/materialize.min.js"></script>
+  <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0/css/materialize.min.css">
+    <div class="row">
+        <div class="col s8 offset-s2">
+        <div class="card grey lighten-2">
+            <div class="card-tabs">
+            <ul class="tabs tabs-fixed-width tabs-transparent">
+              <li class="tab">
+                <a routerLink='/login' routerLinkActive='active'>Sign In</a>
+              </li>
+              <li class="tab">
+                <a  routerLink='/signup' routerLinkActive='active'>Sign Up</a>
+              </li>
+            </ul>
+          </div>
+          <div class="card-content white">
+            <div class="row">
+              <router-outlet></router-outlet>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>

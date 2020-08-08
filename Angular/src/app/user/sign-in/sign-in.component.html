@@ -1,0 +1,33 @@
+<form class="col s12 white" #UserLoginForm="ngForm" autocomplete="off" (ngSubmit)="onSubmit(UserLoginForm)">
+    <script src= "https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0/js/materialize.min.js"></script>
+    <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0/css/materialize.min.css">
+    <div class="row">
+    <div class="input-field col s12">
+        <i class="material-icons prefix">account_circle</i>
+        <input type="text" name="UserEmail" placeholder="Username" #UserEmail="ngModel" [(ngModel)]="service.selectedLogin.UserEmail" required>
+    </div>
+    <!-- <div style="color:red" 
+        *ngIf="courseName.errors && (courseName.dirty || courseName.touched)">    
+        <p *ngIf="courseName.errors.required">
+            Course Name is required
+        </p>
+    </div> -->
+    <div class="validation-error" *ngIf="UserEmail.invalid && UserEmail.touched">This Field is Required.</div>
+    </div>
+
+    <div class="row">
+        <div class="input-field col s12">
+        <i class="material-icons prefix">vpn_key</i>
+        <input type="password" name="UserPassword" placeholder="Password" #UserPassword="ngModel" [(ngModel)]="service.selectedLogin.UserPassword" required>
+    </div>
+    <div class="validation-error" *ngIf="UserPassword.invalid && UserPassword.touched">This Field is Required.</div>
+    </div>
+    
+    <div class="row">
+        <div class="input-field col s12">
+            <button [disabled]="!UserLoginForm.valid" class="btn-large btn-submit" type="submit">Login</button>
+        </div>
+    </div>
+</form>

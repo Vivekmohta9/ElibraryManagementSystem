@@ -1,0 +1,150 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="ELibraryMgmtSystemModel.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityType Name="Disciplines">
+    <Key>
+      <PropertyRef Name="DiscId" />
+    </Key>
+    <Property Name="DiscId" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="DiscName" Type="varchar" MaxLength="50" Nullable="false" />
+  </EntityType>
+  <EntityType Name="Document_Details">
+    <Key>
+      <PropertyRef Name="DocId" />
+    </Key>
+    <Property Name="DocId" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="DocTitle" Type="varchar" MaxLength="50" Nullable="false" />
+    <Property Name="DocAuthors" Type="varchar" MaxLength="50" Nullable="false" />
+    <Property Name="DocDateOfPublished" Type="date" Nullable="false" />
+    <Property Name="DocPrice" Type="int" Nullable="false" />
+    <Property Name="DocDescription" Type="varchar" MaxLength="200" Nullable="false" />
+    <Property Name="DocTypeId" Type="int" Nullable="false" />
+    <Property Name="DiscId" Type="int" Nullable="false" />
+  </EntityType>
+  <EntityType Name="Document_Types">
+    <Key>
+      <PropertyRef Name="DocTypeId" />
+    </Key>
+    <Property Name="DocTypeId" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="DocTypeName" Type="varchar" MaxLength="50" Nullable="false" />
+  </EntityType>
+  <EntityType Name="Order">
+    <Key>
+      <PropertyRef Name="OrderId" />
+    </Key>
+    <Property Name="OrderId" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="UserId" Type="int" Nullable="false" />
+    <Property Name="DocId" Type="int" />
+    <Property Name="TimeStamp" Type="date" />
+  </EntityType>
+  <EntityType Name="User_Details">
+    <Key>
+      <PropertyRef Name="UserId" />
+    </Key>
+    <Property Name="UserName" Type="varchar" MaxLength="50" Nullable="false" />
+    <Property Name="UserAddress" Type="varchar" MaxLength="100" Nullable="false" />
+    <Property Name="UserPhoneNumber" Type="varchar" MaxLength="50" Nullable="false" />
+    <Property Name="UserInterest" Type="varchar" MaxLength="50" Nullable="false" />
+    <Property Name="UserEmail" Type="varchar" MaxLength="50" Nullable="false" />
+    <Property Name="UserId" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="UserPassword" Type="varchar" MaxLength="50" Nullable="false" />
+    <Property Name="UserCreditCardNumber" Type="varchar" MaxLength="50" Nullable="false" />
+    <Property Name="UserCreditCardExpiryDate" Type="varchar" MaxLength="50" Nullable="false" />
+    <Property Name="UserCreditCardCVV" Type="int" Nullable="false" />
+    <Property Name="UserTypeId" Type="int" Nullable="false" />
+  </EntityType>
+  <EntityType Name="UserType">
+    <Key>
+      <PropertyRef Name="UserTypeId" />
+    </Key>
+    <Property Name="UserTypeId" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="UserTypeName" Type="varchar" MaxLength="50" Nullable="false" />
+  </EntityType>
+  <Association Name="FK_Document_Details_Document_Details">
+    <End Role="Disciplines" Type="Self.Disciplines" Multiplicity="1" />
+    <End Role="Document_Details" Type="Self.Document_Details" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Disciplines">
+        <PropertyRef Name="DiscId" />
+      </Principal>
+      <Dependent Role="Document_Details">
+        <PropertyRef Name="DiscId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Document_Details_Document_Types">
+    <End Role="Document_Types" Type="Self.Document_Types" Multiplicity="1" />
+    <End Role="Document_Details" Type="Self.Document_Details" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Document_Types">
+        <PropertyRef Name="DocTypeId" />
+      </Principal>
+      <Dependent Role="Document_Details">
+        <PropertyRef Name="DocTypeId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Order_Document_Details">
+    <End Role="Document_Details" Type="Self.Document_Details" Multiplicity="0..1" />
+    <End Role="Order" Type="Self.Order" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Document_Details">
+        <PropertyRef Name="DocId" />
+      </Principal>
+      <Dependent Role="Order">
+        <PropertyRef Name="DocId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Order_User_Details">
+    <End Role="User_Details" Type="Self.User_Details" Multiplicity="1" />
+    <End Role="Order" Type="Self.Order" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="User_Details">
+        <PropertyRef Name="UserId" />
+      </Principal>
+      <Dependent Role="Order">
+        <PropertyRef Name="UserId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_User_Details_UserType">
+    <End Role="UserType" Type="Self.UserType" Multiplicity="1" />
+    <End Role="User_Details" Type="Self.User_Details" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="UserType">
+        <PropertyRef Name="UserTypeId" />
+      </Principal>
+      <Dependent Role="User_Details">
+        <PropertyRef Name="UserTypeId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityContainer Name="ELibraryMgmtSystemModelStoreContainer">
+    <EntitySet Name="Disciplines" EntityType="Self.Disciplines" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Document_Details" EntityType="Self.Document_Details" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Document_Types" EntityType="Self.Document_Types" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Order" EntityType="Self.Order" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="User_Details" EntityType="Self.User_Details" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="UserType" EntityType="Self.UserType" Schema="dbo" store:Type="Tables" />
+    <AssociationSet Name="FK_Document_Details_Document_Details" Association="Self.FK_Document_Details_Document_Details">
+      <End Role="Disciplines" EntitySet="Disciplines" />
+      <End Role="Document_Details" EntitySet="Document_Details" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Document_Details_Document_Types" Association="Self.FK_Document_Details_Document_Types">
+      <End Role="Document_Types" EntitySet="Document_Types" />
+      <End Role="Document_Details" EntitySet="Document_Details" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Order_Document_Details" Association="Self.FK_Order_Document_Details">
+      <End Role="Document_Details" EntitySet="Document_Details" />
+      <End Role="Order" EntitySet="Order" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Order_User_Details" Association="Self.FK_Order_User_Details">
+      <End Role="User_Details" EntitySet="User_Details" />
+      <End Role="Order" EntitySet="Order" />
+    </AssociationSet>
+    <AssociationSet Name="FK_User_Details_UserType" Association="Self.FK_User_Details_UserType">
+      <End Role="UserType" EntitySet="UserType" />
+      <End Role="User_Details" EntitySet="User_Details" />
+    </AssociationSet>
+  </EntityContainer>
+</Schema>

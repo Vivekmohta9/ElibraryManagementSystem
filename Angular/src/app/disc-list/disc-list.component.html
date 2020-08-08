@@ -1,0 +1,14 @@
+<div style="margin-top:10%; margin-left:10%">
+<br />
+<div class="w3-display w3-xxxlarge" align="center">
+    -- Select Discipline --
+</div>
+<br />
+<br />
+<br />
+<div class="col s2" align="center" *ngFor="let disc of disciplineList | async">
+    <button class="btn btn-primary btn-md text-white" style= "width :200px;" routerLink="{{disc.DiscId}}">{{disc.DiscName}}</button>
+    <br />
+    <br />
+</div>
+</div>

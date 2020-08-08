@@ -1,0 +1,16 @@
+<div class="w3-display-middle form-group" style="margin-left: 5%;" align="center">
+    <label><h2>Amount to Pay : 1000 Rs.</h2></label>
+    <p>
+        <label><i>(One-Time Subscriber Fee)</i></label>
+    </p>
+    <label><h2>Card Number : {{service.userDetails.UserCreditCardNumber}}</h2></label>
+    <br>
+    <label><h2>Expiry : {{service.userDetails.UserCreditCardExpiryDate}}</h2></label>
+    <br>
+    <label>
+        <h2>CVV :</h2><input type="number" class="form-group" name="cardCVV" id="carCVV" [(ngModel)]="userCreditCardCVV">
+    </label>
+    <br>
+    <button value="Pay and Register" class="btn-small btn-disc align-left" (click)="compareCVV()">Register</button>
+</div>
+

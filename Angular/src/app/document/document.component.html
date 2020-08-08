@@ -1,0 +1,142 @@
+<div class="container">
+    <mat-card>
+        <div class="jumbotron ">
+            <div class="container">
+            <div class="row">
+                <div class="col-12" style="color:rgb(93, 80, 170);font-size:20px;font-weight:bold;text-align: center;" >
+                Admin Page
+                </div>
+                <br />
+                <br />
+                <br />
+                <div class="col-12" *ngIf="dataSaved" style="color:rgb(93, 80, 170);font-size:20px;font-weight:bold;text-align: center;" Class="success" >
+                {{message}}
+                </div>
+            </div>
+            </div>
+        </div>
+        <mat-card-content>
+            <form [formGroup]="documentForm" (ngSubmit)="onFormSubmit()" class="center" autocomplete="off">
+                <table align="center" >
+                    <tr>
+                    <td class="tbl1">
+                        <mat-form-field class="demo-full-width">
+                            <input formControlName="DocTitle" matTooltip="Enter Document Title" matInput placeholder="Title">
+                        </mat-form-field>
+                    <mat-error>
+                          <span *ngIf="!documentForm.get('DocTitle').value && documentForm.get('DocTitle').touched"></span>
+                        </mat-error>
+                    </td>
+                    </tr>
+                    <tr>
+                    <td class="tbl1">
+                        <mat-form-field class="demo-full-width">
+                            <input formControlName="DocAuthors" matTooltip="Enter Author" matInput placeholder="Author">
+                        </mat-form-field>
+                        <mat-error>
+                          <span *ngIf="!documentForm.get('DocAuthors').value && documentForm.get('DocAuthors').touched"></span>
+                        </mat-error>
+                    </td>
+                    </tr>
+                    <tr>
+                    <td class="tbl1">
+                        <mat-form-field appearance="fill" class="demo-full-width">
+                            <mat-label>Description</mat-label>
+                            <textarea matInput matTooltip="Enter Description" formControlName="DocDescription" ></textarea>
+                        </mat-form-field>
+                        <mat-error>
+                          <span *ngIf=" documentForm.controls['DocDescription'].touched && documentForm.controls['DocDescription'].hasError('maxlength')">
+                            Maximum of 200 characters
+                            </span>
+                        </mat-error>
+                    </td>
+                    </tr>
+                    <td class="tbl1">
+                        <mat-form-field class="demo-full-width">
+                        <mat-select formControlName="DocTypeId" matTooltip="Enter Type Id" matInput placeholder="DocType">
+                            <mat-option *ngFor="let doc of allDocTypes | async" [value]="doc.DocTypeId">
+                            {{doc.DocTypeName}}
+                            </mat-option>
+                        </mat-select>
+                    </mat-form-field>
+                    <mat-error>
+                        <span *ngIf="!documentForm.get('DocTypeId').value && documentForm.get('DocTypeId').touched"></span>
+                    </mat-error>
+                    </td>
+                    <tr>
+                        <td class="tbl1">
+                        <mat-form-field class="demo-full-width">
+                        <mat-select formControlName="DiscId" matTooltip="Enter Disclipline Id" matInput placeholder="Disclipline">
+                          <mat-option *ngFor="let disc of allDiscplines | async" [value]="disc.DiscId">
+                            {{disc.DiscName}}
+                        </mat-option>
+                        </mat-select>
+                    </mat-form-field>
+                    <mat-error>
+                        <span *ngIf="!documentForm.get('DiscId').value && documentForm.get('DiscId').touched"></span>
+                    </mat-error>
+                    </td>
+                </tr>
+                    <tr>
+                    <td class="tbl1">
+                        <mat-form-field class="demo-full-width" *ngIf="documentForm.get('DocTypeId').value == 2 ">
+                            <input type="number" formControlName="DocPrice" matTooltip="Enter Price" matInput placeholder="Price" >
+                        </mat-form-field>
+                        <mat-error>
+                            <span *ngIf=" documentForm.controls['DocPrice'].touched && documentForm.controls['DocPrice'].hasError('min')">
+                            Minimum Price Should be greater than 0.
+                            </span>
+                        </mat-error>
+                    </td>
+                    </tr>
+                    <tr>
+                        <td class="tbl1">
+                        <mat-form-field class="demo-full-width">
+                            <mat-label>Date Of Published</mat-label>
+                            <input  matInput [matDatepicker]="DocDateOfPublished" formControlName="DocDateOfPublished" matTooltip="Enter Date Of Published" >
+                            <mat-datepicker-toggle matSuffix [for]="DocDateOfPublished"></mat-datepicker-toggle>
+                            <mat-datepicker #DocDateOfPublished></mat-datepicker>
+                        </mat-form-field>
+                        <mat-error>
+                          <span *ngIf="!documentForm.get('DocDateOfPublished').value && documentForm.get('DocDateOfPublished').touched"></span>
+                        </mat-error>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td  class="content-center">
+                        <button type="submit" mat-raised-button color="accent" matTooltip="Click Submit Button" [disabled]="!documentForm.valid">Submit</button>&nbsp;&nbsp;&nbsp;&nbsp;
+                        <button type="reset" mat-raised-button color="accent" matTooltip="Click Reset Button" (click)="resetForm()">Reset</button>
+                    </td>
+                    </tr>
+                </table>
+                <br>
+                <br>
+                <table class="table table-active table-bordered table-hover " style="margin-left: 6%;" >
+                <tr ngclass="btn-primary">
+                    <th class="tbl2">Title</th>
+                    <th class="tbl2">Author</th>
+                    <th class="tbl2">Price</th>
+                    <th class="tbl2">Description</th>
+                    <th class="tbl2">Date</th>
+                    <th class="tbl2"></th>
+                    <th class="tbl2"></th>
+                </tr>
+                  <tr *ngFor="let document of allDocuments | async" >
+                    <td class="tbl2">{{document.DocTitle}}</td>
+                    <td class="tbl2">{{document.DocAuthors}}</td>
+                    <td class="tbl2">{{document.DocPrice}}</td>
+                    <td class="tbl2">{{document.DocDescription}}</td>
+                    <td class="tbl2">{{document.DocDateOfPublished | date}}</td>
+                    <td class="tbl2">
+                        <button type="button" class="btn btn-info" matTooltip="Click Edit Button" (click)="loadDocumentToEdit(document.DocId)">Edit</button>
+                    </td>
+                    <td class="tbl2">
+                        <button type="button" class="btn btn-danger " matTooltip="Click Delete Button" (click)="deleteDocument(document.DocId)"> Delete </button>
+                    </td>
+                </tr>
+                </table>
+        </form>
+        </mat-card-content>
+    </mat-card>
+</div>
+

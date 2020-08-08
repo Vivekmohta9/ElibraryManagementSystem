@@ -1,0 +1,25 @@
+<div class="main" style="margin-left:10%">
+    <br />
+    <br />
+    <p align="center">
+    <u><b><h1>Order History Page</h1></b></u>
+    </p>
+    <br />
+    <br />
+    <font size=4 align="center">
+    <table width=1000px border="5px" align="center" cellpadding=5px>
+        <tr>
+            <td><b>Order ID</b></td>
+            <td><b>User ID</b></td>
+            <td><b>Document ID</b></td>
+            <td><b>Time Stamp</b></td>
+        </tr>
+        <tr *ngFor="let x of orderData | async">
+            <td>{{x.OrderId}}</td>
+            <td>{{x.UserId}}</td>
+            <td>{{x.DocId}}</td>
+            <td>{{x.TimeStamp}}</td>
+        </tr>
+    </table>
+    </font>
+</div>

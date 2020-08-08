@@ -1,0 +1,70 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="ELibraryMgmtSystemModelStoreContainer" CdmEntityContainer="ELibraryMgmtSystemEntities">
+    <EntitySetMapping Name="Disciplines">
+      <EntityTypeMapping TypeName="ELibraryMgmtSystemModel.Discipline">
+        <MappingFragment StoreEntitySet="Disciplines">
+          <ScalarProperty Name="DiscId" ColumnName="DiscId" />
+          <ScalarProperty Name="DiscName" ColumnName="DiscName" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Document_Details">
+      <EntityTypeMapping TypeName="ELibraryMgmtSystemModel.Document_Details">
+        <MappingFragment StoreEntitySet="Document_Details">
+          <ScalarProperty Name="DocId" ColumnName="DocId" />
+          <ScalarProperty Name="DocTitle" ColumnName="DocTitle" />
+          <ScalarProperty Name="DocAuthors" ColumnName="DocAuthors" />
+          <ScalarProperty Name="DocDateOfPublished" ColumnName="DocDateOfPublished" />
+          <ScalarProperty Name="DocPrice" ColumnName="DocPrice" />
+          <ScalarProperty Name="DocDescription" ColumnName="DocDescription" />
+          <ScalarProperty Name="DocTypeId" ColumnName="DocTypeId" />
+          <ScalarProperty Name="DiscId" ColumnName="DiscId" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Document_Types">
+      <EntityTypeMapping TypeName="ELibraryMgmtSystemModel.Document_Types">
+        <MappingFragment StoreEntitySet="Document_Types">
+          <ScalarProperty Name="DocTypeId" ColumnName="DocTypeId" />
+          <ScalarProperty Name="DocTypeName" ColumnName="DocTypeName" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Orders">
+      <EntityTypeMapping TypeName="ELibraryMgmtSystemModel.Order">
+        <MappingFragment StoreEntitySet="Order">
+          <ScalarProperty Name="TimeStamp" ColumnName="TimeStamp" />
+          <ScalarProperty Name="DocId" ColumnName="DocId" />
+          <ScalarProperty Name="UserId" ColumnName="UserId" />
+          <ScalarProperty Name="OrderId" ColumnName="OrderId" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="User_Details">
+      <EntityTypeMapping TypeName="ELibraryMgmtSystemModel.User_Details">
+        <MappingFragment StoreEntitySet="User_Details">
+          <ScalarProperty Name="UserTypeId" ColumnName="UserTypeId" />
+          <ScalarProperty Name="UserCreditCardCVV" ColumnName="UserCreditCardCVV" />
+          <ScalarProperty Name="UserCreditCardExpiryDate" ColumnName="UserCreditCardExpiryDate" />
+          <ScalarProperty Name="UserCreditCardNumber" ColumnName="UserCreditCardNumber" />
+          <ScalarProperty Name="UserPassword" ColumnName="UserPassword" />
+          <ScalarProperty Name="UserId" ColumnName="UserId" />
+          <ScalarProperty Name="UserEmail" ColumnName="UserEmail" />
+          <ScalarProperty Name="UserInterest" ColumnName="UserInterest" />
+          <ScalarProperty Name="UserPhoneNumber" ColumnName="UserPhoneNumber" />
+          <ScalarProperty Name="UserAddress" ColumnName="UserAddress" />
+          <ScalarProperty Name="UserName" ColumnName="UserName" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="UserTypes">
+      <EntityTypeMapping TypeName="ELibraryMgmtSystemModel.UserType">
+        <MappingFragment StoreEntitySet="UserType">
+          <ScalarProperty Name="UserTypeName" ColumnName="UserTypeName" />
+          <ScalarProperty Name="UserTypeId" ColumnName="UserTypeId" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

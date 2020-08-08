@@ -1,0 +1,42 @@
+<div class="sidebar">
+    <!-- sidebar-dark bg-dark -->
+    <li routerLinkActive="active" ><a routerLink="/"><i class="fa fa-fw fa-home"></i>  Home</a></li>
+    <br />
+    <br />
+    <li routerLinkActive="active" ><a routerLink="/about-us"><i class="fa fa-info-circle"></i>  About Us</a>
+    <br />
+    <br />
+    <li routerLinkActive="active">
+        <a *ngIf="service.readSession.UserId==0" routerLink="/login"><i class="fa fa-sign-in"></i>  Login</a>
+        <a *ngIf="service.readSession.UserId!=0" routerLink="/login" ><i class="fa fa-sign-out" ></i>  Logout</a>
+    </li>
+    <br />
+    <br />
+    <li routerLinkActive="active" ><a routerLink="/discList"><i class="fa fa-book fa-fw"></i>  Disciplines</a></li>
+    <br />
+    <br />    
+    <li routerLinkActive="active" ><a routerLink="/order-history"><i class="fa fa-history"></i>  Order History</a>
+    <br />
+    <br />
+    <li routerLinkActive="active" ><a routerLink="/contactUs"><i class="fa fa-phone"></i>  Contact Us</a></li>
+    <br />
+    <br />
+    <li routerLinkActive="active" ><a routerLink="/blog"><i class="fa fa-pencil"></i>  Blogs</a></li>
+    <br />
+    <br />
+    <li *ngIf="service.readSession.UserTypeId==3" routerLinkActive="active" ><a routerLink="/admin"><i class="fa fa-user-md"></i>  Admin</a></li>    
+</div>
+<div class="w3-display-topright" style="margin-right:2%; margin-top:1%;" >
+    <div align="center">
+        <i class="fa fa-500px fa-3x"></i>
+        <br />
+        <p class="w3-xlarge w3-center"><i>ELIBA</i></p>
+    </div>
+</div>
+<div class="w3-display-bottomright" style="margin-right:2%; margin-bottom:1%">
+    <div align="center">
+        <p class="w3-large w3-center">Follow us on :</p>
+        <a href="https://www.instagram.com"><i class="fa fa-instagram fa-2x"></i></a>
+        <a href="https://www.facebook.com" style="padding-left:15px;"><i class="fa fa-facebook fa-2x"></i></a>
+    </div>
+</div>

@@ -1,0 +1,365 @@
+D:\☻\Angular\myDemos\LABS\Sprint-2\DMain\ELibraryMgmtSystem\ELibraryMgmtSystem\bin\ELibraryMgmtSystem.dll.config
+D:\☻\Angular\myDemos\LABS\Sprint-2\DMain\ELibraryMgmtSystem\ELibraryMgmtSystem\bin\ELibraryMgmtSystem.dll
+D:\☻\Angular\myDemos\LABS\Sprint-2\DMain\ELibraryMgmtSystem\ELibraryMgmtSystem\bin\ELibraryMgmtSystem.pdb
+D:\☻\Angular\myDemos\LABS\Sprint-2\DMain\ELibraryMgmtSystem\ELibraryMgmtSystem\bin\roslyn\csc.exe
+D:\☻\Angular\myDemos\LABS\Sprint-2\DMain\ELibraryMgmtSystem\ELibraryMgmtSystem\bin\roslyn\csc.exe.config
+D:\☻\Angular\myDemos\LABS\Sprint-2\DMain\ELibraryMgmtSystem\ELibraryMgmtSystem\bin\roslyn\csc.rsp
+D:\☻\Angular\myDemos\LABS\Sprint-2\DMain\ELibraryMgmtSystem\ELibraryMgmtSystem\bin\roslyn\csi.exe
+D:\☻\Angular\myDemos\LABS\Sprint-2\DMain\ELibraryMgmtSystem\ELibraryMgmtSystem\bin\roslyn\csi.exe.config
+D:\☻\Angular\myDemos\LABS\Sprint-2\DMain\ELibraryMgmtSystem\ELibraryMgmtSystem\bin\roslyn\csi.rsp
+D:\☻\Angular\myDemos\LABS\Sprint-2\DMain\ELibraryMgmtSystem\ELibraryMgmtSystem\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\☻\Angular\myDemos\LABS\Sprint-2\DMain\ELibraryMgmtSystem\ELibraryMgmtSystem\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\☻\Angular\myDemos\LABS\Sprint-2\DMain\ELibraryMgmtSystem\ELibraryMgmtSystem\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\☻\Angular\myDemos\LABS\Sprint-2\DMain\ELibraryMgmtSystem\ELibraryMgmtSystem\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\☻\Angular\myDemos\LABS\Sprint-2\DMain\ELibraryMgmtSystem\ELibraryMgmtSystem\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\☻\Angular\myDemos\LABS\Sprint-2\DMain\ELibraryMgmtSystem\ELibraryMgmtSystem\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\☻\Angular\myDemos\LABS\Sprint-2\DMain\ELibraryMgmtSystem\ELibraryMgmtSystem\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\☻\Angular\myDemos\LABS\Sprint-2\DMain\ELibraryMgmtSystem\ELibraryMgmtSystem\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\☻\Angular\myDemos\LABS\Sprint-2\DMain\ELibraryMgmtSystem\ELibraryMgmtSystem\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\☻\Angular\myDemos\LABS\Sprint-2\DMain\ELibraryMgmtSystem\ELibraryMgmtSystem\bin\roslyn\Microsoft.Managed.Core.targets
+D:\☻\Angular\myDemos\LABS\Sprint-2\DMain\ELibraryMgmtSystem\ELibraryMgmtSystem\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\☻\Angular\myDemos\LABS\Sprint-2\DMain\ELibraryMgmtSystem\ELibraryMgmtSystem\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\☻\Angular\myDemos\LABS\Sprint-2\DMain\ELibraryMgmtSystem\ELibraryMgmtSystem\bin\roslyn\System.AppContext.dll
+D:\☻\Angular\myDemos\LABS\Sprint-2\DMain\ELibraryMgmtSystem\ELibraryMgmtSystem\bin\roslyn\System.Collections.Immutable.dll
+D:\☻\Angular\myDemos\LABS\Sprint-2\DMain\ELibraryMgmtSystem\ELibraryMgmtSystem\bin\roslyn\System.Console.dll
+D:\☻\Angular\myDemos\LABS\Sprint-2\DMain\ELibraryMgmtSystem\ELibraryMgmtSystem\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\☻\Angular\myDemos\LABS\Sprint-2\DMain\ELibraryMgmtSystem\ELibraryMgmtSystem\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\☻\Angular\myDemos\LABS\Sprint-2\DMain\ELibraryMgmtSystem\ELibraryMgmtSystem\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\☻\Angular\myDemos\LABS\Sprint-2\DMain\ELibraryMgmtSystem\ELibraryMgmtSystem\bin\roslyn\System.Globalization.Calendars.dll
+D:\☻\Angular\myDemos\LABS\Sprint-2\DMain\ELibraryMgmtSystem\ELibraryMgmtSystem\bin\roslyn\System.IO.Compression.dll
+D:\☻\Angular\myDemos\LABS\Sprint-2\DMain\ELibraryMgmtSystem\ELibraryMgmtSystem\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\☻\Angular\myDemos\LABS\Sprint-2\DMain\ELibraryMgmtSystem\ELibraryMgmtSystem\bin\roslyn\System.IO.FileSystem.dll
+D:\☻\Angular\myDemos\LABS\Sprint-2\DMain\ELibraryMgmtSystem\ELibraryMgmtSystem\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\☻\Angular\myDemos\LABS\Sprint-2\DMain\ELibraryMgmtSystem\ELibraryMgmtSystem\bin\roslyn\System.Net.Http.dll
+D:\☻\Angular\myDemos\LABS\Sprint-2\DMain\ELibraryMgmtSystem\ELibraryMgmtSystem\bin\roslyn\System.Net.Sockets.dll
+D:\☻\Angular\myDemos\LABS\Sprint-2\DMain\ELibraryMgmtSystem\ELibraryMgmtSystem\bin\roslyn\System.Reflection.Metadata.dll
+D:\☻\Angular\myDemos\LABS\Sprint-2\DMain\ELibraryMgmtSystem\ELibraryMgmtSystem\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\☻\Angular\myDemos\LABS\Sprint-2\DMain\ELibraryMgmtSystem\ELibraryMgmtSystem\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\☻\Angular\myDemos\LABS\Sprint-2\DMain\ELibraryMgmtSystem\ELibraryMgmtSystem\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\☻\Angular\myDemos\LABS\Sprint-2\DMain\ELibraryMgmtSystem\ELibraryMgmtSystem\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\☻\Angular\myDemos\LABS\Sprint-2\DMain\ELibraryMgmtSystem\ELibraryMgmtSystem\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\☻\Angular\myDemos\LABS\Sprint-2\DMain\ELibraryMgmtSystem\ELibraryMgmtSystem\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\☻\Angular\myDemos\LABS\Sprint-2\DMain\ELibraryMgmtSystem\ELibraryMgmtSystem\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\☻\Angular\myDemos\LABS\Sprint-2\DMain\ELibraryMgmtSystem\ELibraryMgmtSystem\bin\roslyn\System.ValueTuple.dll
+D:\☻\Angular\myDemos\LABS\Sprint-2\DMain\ELibraryMgmtSystem\ELibraryMgmtSystem\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\☻\Angular\myDemos\LABS\Sprint-2\DMain\ELibraryMgmtSystem\ELibraryMgmtSystem\bin\roslyn\System.Xml.XmlDocument.dll
+D:\☻\Angular\myDemos\LABS\Sprint-2\DMain\ELibraryMgmtSystem\ELibraryMgmtSystem\bin\roslyn\System.Xml.XPath.dll
+D:\☻\Angular\myDemos\LABS\Sprint-2\DMain\ELibraryMgmtSystem\ELibraryMgmtSystem\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\☻\Angular\myDemos\LABS\Sprint-2\DMain\ELibraryMgmtSystem\ELibraryMgmtSystem\bin\roslyn\vbc.exe
+D:\☻\Angular\myDemos\LABS\Sprint-2\DMain\ELibraryMgmtSystem\ELibraryMgmtSystem\bin\roslyn\vbc.exe.config
+D:\☻\Angular\myDemos\LABS\Sprint-2\DMain\ELibraryMgmtSystem\ELibraryMgmtSystem\bin\roslyn\vbc.rsp
+D:\☻\Angular\myDemos\LABS\Sprint-2\DMain\ELibraryMgmtSystem\ELibraryMgmtSystem\bin\roslyn\VBCSCompiler.exe
+D:\☻\Angular\myDemos\LABS\Sprint-2\DMain\ELibraryMgmtSystem\ELibraryMgmtSystem\bin\roslyn\VBCSCompiler.exe.config
+D:\☻\Angular\myDemos\LABS\Sprint-2\DMain\ELibraryMgmtSystem\ELibraryMgmtSystem\bin\Antlr3.Runtime.dll
+D:\☻\Angular\myDemos\LABS\Sprint-2\DMain\ELibraryMgmtSystem\ELibraryMgmtSystem\bin\EntityFramework.dll
+D:\☻\Angular\myDemos\LABS\Sprint-2\DMain\ELibraryMgmtSystem\ELibraryMgmtSystem\bin\EntityFramework.SqlServer.dll
+D:\☻\Angular\myDemos\LABS\Sprint-2\DMain\ELibraryMgmtSystem\ELibraryMgmtSystem\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\☻\Angular\myDemos\LABS\Sprint-2\DMain\ELibraryMgmtSystem\ELibraryMgmtSystem\bin\Microsoft.Web.Infrastructure.dll
+D:\☻\Angular\myDemos\LABS\Sprint-2\DMain\ELibraryMgmtSystem\ELibraryMgmtSystem\bin\Newtonsoft.Json.dll
+D:\☻\Angular\myDemos\LABS\Sprint-2\DMain\ELibraryMgmtSystem\ELibraryMgmtSystem\bin\System.Net.Http.Formatting.dll
+D:\☻\Angular\myDemos\LABS\Sprint-2\DMain\ELibraryMgmtSystem\ELibraryMgmtSystem\bin\System.Web.Helpers.dll
+D:\☻\Angular\myDemos\LABS\Sprint-2\DMain\ELibraryMgmtSystem\ELibraryMgmtSystem\bin\System.Web.Http.dll
+D:\☻\Angular\myDemos\LABS\Sprint-2\DMain\ELibraryMgmtSystem\ELibraryMgmtSystem\bin\System.Web.Http.WebHost.dll
+D:\☻\Angular\myDemos\LABS\Sprint-2\DMain\ELibraryMgmtSystem\ELibraryMgmtSystem\bin\System.Web.Mvc.dll
+D:\☻\Angular\myDemos\LABS\Sprint-2\DMain\ELibraryMgmtSystem\ELibraryMgmtSystem\bin\System.Web.Optimization.dll
+D:\☻\Angular\myDemos\LABS\Sprint-2\DMain\ELibraryMgmtSystem\ELibraryMgmtSystem\bin\System.Web.Razor.dll
+D:\☻\Angular\myDemos\LABS\Sprint-2\DMain\ELibraryMgmtSystem\ELibraryMgmtSystem\bin\System.Web.WebPages.Deployment.dll
+D:\☻\Angular\myDemos\LABS\Sprint-2\DMain\ELibraryMgmtSystem\ELibraryMgmtSystem\bin\System.Web.WebPages.dll
+D:\☻\Angular\myDemos\LABS\Sprint-2\DMain\ELibraryMgmtSystem\ELibraryMgmtSystem\bin\System.Web.WebPages.Razor.dll
+D:\☻\Angular\myDemos\LABS\Sprint-2\DMain\ELibraryMgmtSystem\ELibraryMgmtSystem\bin\WebGrease.dll
+D:\☻\Angular\myDemos\LABS\Sprint-2\DMain\ELibraryMgmtSystem\ELibraryMgmtSystem\bin\EntityFramework.xml
+D:\☻\Angular\myDemos\LABS\Sprint-2\DMain\ELibraryMgmtSystem\ELibraryMgmtSystem\bin\EntityFramework.SqlServer.xml
+D:\☻\Angular\myDemos\LABS\Sprint-2\DMain\ELibraryMgmtSystem\ELibraryMgmtSystem\bin\Newtonsoft.Json.xml
+D:\☻\Angular\myDemos\LABS\Sprint-2\DMain\ELibraryMgmtSystem\ELibraryMgmtSystem\bin\System.Net.Http.Formatting.xml
+D:\☻\Angular\myDemos\LABS\Sprint-2\DMain\ELibraryMgmtSystem\ELibraryMgmtSystem\bin\System.Web.Helpers.xml
+D:\☻\Angular\myDemos\LABS\Sprint-2\DMain\ELibraryMgmtSystem\ELibraryMgmtSystem\bin\System.Web.Http.xml
+D:\☻\Angular\myDemos\LABS\Sprint-2\DMain\ELibraryMgmtSystem\ELibraryMgmtSystem\bin\System.Web.Http.WebHost.xml
+D:\☻\Angular\myDemos\LABS\Sprint-2\DMain\ELibraryMgmtSystem\ELibraryMgmtSystem\bin\System.Web.Mvc.xml
+D:\☻\Angular\myDemos\LABS\Sprint-2\DMain\ELibraryMgmtSystem\ELibraryMgmtSystem\bin\System.Web.Optimization.xml
+D:\☻\Angular\myDemos\LABS\Sprint-2\DMain\ELibraryMgmtSystem\ELibraryMgmtSystem\bin\System.Web.Razor.xml
+D:\☻\Angular\myDemos\LABS\Sprint-2\DMain\ELibraryMgmtSystem\ELibraryMgmtSystem\bin\System.Web.WebPages.xml
+D:\☻\Angular\myDemos\LABS\Sprint-2\DMain\ELibraryMgmtSystem\ELibraryMgmtSystem\bin\System.Web.WebPages.Deployment.xml
+D:\☻\Angular\myDemos\LABS\Sprint-2\DMain\ELibraryMgmtSystem\ELibraryMgmtSystem\bin\System.Web.WebPages.Razor.xml
+D:\☻\Angular\myDemos\LABS\Sprint-2\DMain\ELibraryMgmtSystem\ELibraryMgmtSystem\bin\Antlr3.Runtime.pdb
+D:\☻\Angular\myDemos\LABS\Sprint-2\DMain\ELibraryMgmtSystem\ELibraryMgmtSystem\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\☻\Angular\myDemos\LABS\Sprint-2\DMain\ELibraryMgmtSystem\ELibraryMgmtSystem\obj\Debug\ELibraryMgmtSystem.csprojAssemblyReference.cache
+D:\☻\Angular\myDemos\LABS\Sprint-2\DMain\ELibraryMgmtSystem\ELibraryMgmtSystem\obj\Debug\ELibraryMgmtSystem.csproj.CopyComplete
+D:\☻\Angular\myDemos\LABS\Sprint-2\DMain\ELibraryMgmtSystem\ELibraryMgmtSystem\obj\Debug\ELibraryMgmtSystem.dll
+D:\☻\Angular\myDemos\LABS\Sprint-2\DMain\ELibraryMgmtSystem\ELibraryMgmtSystem\obj\Debug\ELibraryMgmtSystem.pdb
+D:\☻\Angular\myDemos\LABS\Sprint-2\DMain\ELibraryMgmtSystem\ELibraryMgmtSystem\bin\System.Web.Cors.dll
+D:\☻\Angular\myDemos\LABS\Sprint-2\DMain\ELibraryMgmtSystem\ELibraryMgmtSystem\bin\System.Web.Http.Cors.dll
+D:\☻\Angular\myDemos\LABS\Sprint-2\DMain\ELibraryMgmtSystem\ELibraryMgmtSystem\bin\System.Web.Http.Cors.xml
+D:\☻\M4\Angular\myDemos\LABS\Sprint-2\DMain\ELibraryMgmtSystem\ELibraryMgmtSystem\bin\ELibraryMgmtSystem.dll.config
+D:\☻\M4\Angular\myDemos\LABS\Sprint-2\DMain\ELibraryMgmtSystem\ELibraryMgmtSystem\bin\ELibraryMgmtSystem.dll
+D:\☻\M4\Angular\myDemos\LABS\Sprint-2\DMain\ELibraryMgmtSystem\ELibraryMgmtSystem\bin\ELibraryMgmtSystem.pdb
+D:\☻\M4\Angular\myDemos\LABS\Sprint-2\DMain\ELibraryMgmtSystem\ELibraryMgmtSystem\bin\roslyn\csc.exe
+D:\☻\M4\Angular\myDemos\LABS\Sprint-2\DMain\ELibraryMgmtSystem\ELibraryMgmtSystem\bin\roslyn\csc.exe.config
+D:\☻\M4\Angular\myDemos\LABS\Sprint-2\DMain\ELibraryMgmtSystem\ELibraryMgmtSystem\bin\roslyn\csc.rsp
+D:\☻\M4\Angular\myDemos\LABS\Sprint-2\DMain\ELibraryMgmtSystem\ELibraryMgmtSystem\bin\roslyn\csi.exe
+D:\☻\M4\Angular\myDemos\LABS\Sprint-2\DMain\ELibraryMgmtSystem\ELibraryMgmtSystem\bin\roslyn\csi.exe.config
+D:\☻\M4\Angular\myDemos\LABS\Sprint-2\DMain\ELibraryMgmtSystem\ELibraryMgmtSystem\bin\roslyn\csi.rsp
+D:\☻\M4\Angular\myDemos\LABS\Sprint-2\DMain\ELibraryMgmtSystem\ELibraryMgmtSystem\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\☻\M4\Angular\myDemos\LABS\Sprint-2\DMain\ELibraryMgmtSystem\ELibraryMgmtSystem\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\☻\M4\Angular\myDemos\LABS\Sprint-2\DMain\ELibraryMgmtSystem\ELibraryMgmtSystem\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\☻\M4\Angular\myDemos\LABS\Sprint-2\DMain\ELibraryMgmtSystem\ELibraryMgmtSystem\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\☻\M4\Angular\myDemos\LABS\Sprint-2\DMain\ELibraryMgmtSystem\ELibraryMgmtSystem\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\☻\M4\Angular\myDemos\LABS\Sprint-2\DMain\ELibraryMgmtSystem\ELibraryMgmtSystem\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\☻\M4\Angular\myDemos\LABS\Sprint-2\DMain\ELibraryMgmtSystem\ELibraryMgmtSystem\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\☻\M4\Angular\myDemos\LABS\Sprint-2\DMain\ELibraryMgmtSystem\ELibraryMgmtSystem\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\☻\M4\Angular\myDemos\LABS\Sprint-2\DMain\ELibraryMgmtSystem\ELibraryMgmtSystem\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\☻\M4\Angular\myDemos\LABS\Sprint-2\DMain\ELibraryMgmtSystem\ELibraryMgmtSystem\bin\roslyn\Microsoft.Managed.Core.targets
+D:\☻\M4\Angular\myDemos\LABS\Sprint-2\DMain\ELibraryMgmtSystem\ELibraryMgmtSystem\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\☻\M4\Angular\myDemos\LABS\Sprint-2\DMain\ELibraryMgmtSystem\ELibraryMgmtSystem\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\☻\M4\Angular\myDemos\LABS\Sprint-2\DMain\ELibraryMgmtSystem\ELibraryMgmtSystem\bin\roslyn\System.AppContext.dll
+D:\☻\M4\Angular\myDemos\LABS\Sprint-2\DMain\ELibraryMgmtSystem\ELibraryMgmtSystem\bin\roslyn\System.Collections.Immutable.dll
+D:\☻\M4\Angular\myDemos\LABS\Sprint-2\DMain\ELibraryMgmtSystem\ELibraryMgmtSystem\bin\roslyn\System.Console.dll
+D:\☻\M4\Angular\myDemos\LABS\Sprint-2\DMain\ELibraryMgmtSystem\ELibraryMgmtSystem\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\☻\M4\Angular\myDemos\LABS\Sprint-2\DMain\ELibraryMgmtSystem\ELibraryMgmtSystem\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\☻\M4\Angular\myDemos\LABS\Sprint-2\DMain\ELibraryMgmtSystem\ELibraryMgmtSystem\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\☻\M4\Angular\myDemos\LABS\Sprint-2\DMain\ELibraryMgmtSystem\ELibraryMgmtSystem\bin\roslyn\System.Globalization.Calendars.dll
+D:\☻\M4\Angular\myDemos\LABS\Sprint-2\DMain\ELibraryMgmtSystem\ELibraryMgmtSystem\bin\roslyn\System.IO.Compression.dll
+D:\☻\M4\Angular\myDemos\LABS\Sprint-2\DMain\ELibraryMgmtSystem\ELibraryMgmtSystem\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\☻\M4\Angular\myDemos\LABS\Sprint-2\DMain\ELibraryMgmtSystem\ELibraryMgmtSystem\bin\roslyn\System.IO.FileSystem.dll
+D:\☻\M4\Angular\myDemos\LABS\Sprint-2\DMain\ELibraryMgmtSystem\ELibraryMgmtSystem\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\☻\M4\Angular\myDemos\LABS\Sprint-2\DMain\ELibraryMgmtSystem\ELibraryMgmtSystem\bin\roslyn\System.Net.Http.dll
+D:\☻\M4\Angular\myDemos\LABS\Sprint-2\DMain\ELibraryMgmtSystem\ELibraryMgmtSystem\bin\roslyn\System.Net.Sockets.dll
+D:\☻\M4\Angular\myDemos\LABS\Sprint-2\DMain\ELibraryMgmtSystem\ELibraryMgmtSystem\bin\roslyn\System.Reflection.Metadata.dll
+D:\☻\M4\Angular\myDemos\LABS\Sprint-2\DMain\ELibraryMgmtSystem\ELibraryMgmtSystem\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\☻\M4\Angular\myDemos\LABS\Sprint-2\DMain\ELibraryMgmtSystem\ELibraryMgmtSystem\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\☻\M4\Angular\myDemos\LABS\Sprint-2\DMain\ELibraryMgmtSystem\ELibraryMgmtSystem\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\☻\M4\Angular\myDemos\LABS\Sprint-2\DMain\ELibraryMgmtSystem\ELibraryMgmtSystem\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\☻\M4\Angular\myDemos\LABS\Sprint-2\DMain\ELibraryMgmtSystem\ELibraryMgmtSystem\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\☻\M4\Angular\myDemos\LABS\Sprint-2\DMain\ELibraryMgmtSystem\ELibraryMgmtSystem\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\☻\M4\Angular\myDemos\LABS\Sprint-2\DMain\ELibraryMgmtSystem\ELibraryMgmtSystem\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\☻\M4\Angular\myDemos\LABS\Sprint-2\DMain\ELibraryMgmtSystem\ELibraryMgmtSystem\bin\roslyn\System.ValueTuple.dll
+D:\☻\M4\Angular\myDemos\LABS\Sprint-2\DMain\ELibraryMgmtSystem\ELibraryMgmtSystem\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\☻\M4\Angular\myDemos\LABS\Sprint-2\DMain\ELibraryMgmtSystem\ELibraryMgmtSystem\bin\roslyn\System.Xml.XmlDocument.dll
+D:\☻\M4\Angular\myDemos\LABS\Sprint-2\DMain\ELibraryMgmtSystem\ELibraryMgmtSystem\bin\roslyn\System.Xml.XPath.dll
+D:\☻\M4\Angular\myDemos\LABS\Sprint-2\DMain\ELibraryMgmtSystem\ELibraryMgmtSystem\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\☻\M4\Angular\myDemos\LABS\Sprint-2\DMain\ELibraryMgmtSystem\ELibraryMgmtSystem\bin\roslyn\vbc.exe
+D:\☻\M4\Angular\myDemos\LABS\Sprint-2\DMain\ELibraryMgmtSystem\ELibraryMgmtSystem\bin\roslyn\vbc.exe.config
+D:\☻\M4\Angular\myDemos\LABS\Sprint-2\DMain\ELibraryMgmtSystem\ELibraryMgmtSystem\bin\roslyn\vbc.rsp
+D:\☻\M4\Angular\myDemos\LABS\Sprint-2\DMain\ELibraryMgmtSystem\ELibraryMgmtSystem\bin\roslyn\VBCSCompiler.exe
+D:\☻\M4\Angular\myDemos\LABS\Sprint-2\DMain\ELibraryMgmtSystem\ELibraryMgmtSystem\bin\roslyn\VBCSCompiler.exe.config
+D:\☻\M4\Angular\myDemos\LABS\Sprint-2\DMain\ELibraryMgmtSystem\ELibraryMgmtSystem\bin\Antlr3.Runtime.dll
+D:\☻\M4\Angular\myDemos\LABS\Sprint-2\DMain\ELibraryMgmtSystem\ELibraryMgmtSystem\bin\EntityFramework.dll
+D:\☻\M4\Angular\myDemos\LABS\Sprint-2\DMain\ELibraryMgmtSystem\ELibraryMgmtSystem\bin\EntityFramework.SqlServer.dll
+D:\☻\M4\Angular\myDemos\LABS\Sprint-2\DMain\ELibraryMgmtSystem\ELibraryMgmtSystem\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\☻\M4\Angular\myDemos\LABS\Sprint-2\DMain\ELibraryMgmtSystem\ELibraryMgmtSystem\bin\Microsoft.Web.Infrastructure.dll
+D:\☻\M4\Angular\myDemos\LABS\Sprint-2\DMain\ELibraryMgmtSystem\ELibraryMgmtSystem\bin\Newtonsoft.Json.dll
+D:\☻\M4\Angular\myDemos\LABS\Sprint-2\DMain\ELibraryMgmtSystem\ELibraryMgmtSystem\bin\System.Net.Http.Formatting.dll
+D:\☻\M4\Angular\myDemos\LABS\Sprint-2\DMain\ELibraryMgmtSystem\ELibraryMgmtSystem\bin\System.Web.Cors.dll
+D:\☻\M4\Angular\myDemos\LABS\Sprint-2\DMain\ELibraryMgmtSystem\ELibraryMgmtSystem\bin\System.Web.Helpers.dll
+D:\☻\M4\Angular\myDemos\LABS\Sprint-2\DMain\ELibraryMgmtSystem\ELibraryMgmtSystem\bin\System.Web.Http.Cors.dll
+D:\☻\M4\Angular\myDemos\LABS\Sprint-2\DMain\ELibraryMgmtSystem\ELibraryMgmtSystem\bin\System.Web.Http.dll
+D:\☻\M4\Angular\myDemos\LABS\Sprint-2\DMain\ELibraryMgmtSystem\ELibraryMgmtSystem\bin\System.Web.Http.WebHost.dll
+D:\☻\M4\Angular\myDemos\LABS\Sprint-2\DMain\ELibraryMgmtSystem\ELibraryMgmtSystem\bin\System.Web.Mvc.dll
+D:\☻\M4\Angular\myDemos\LABS\Sprint-2\DMain\ELibraryMgmtSystem\ELibraryMgmtSystem\bin\System.Web.Optimization.dll
+D:\☻\M4\Angular\myDemos\LABS\Sprint-2\DMain\ELibraryMgmtSystem\ELibraryMgmtSystem\bin\System.Web.Razor.dll
+D:\☻\M4\Angular\myDemos\LABS\Sprint-2\DMain\ELibraryMgmtSystem\ELibraryMgmtSystem\bin\System.Web.WebPages.Deployment.dll
+D:\☻\M4\Angular\myDemos\LABS\Sprint-2\DMain\ELibraryMgmtSystem\ELibraryMgmtSystem\bin\System.Web.WebPages.dll
+D:\☻\M4\Angular\myDemos\LABS\Sprint-2\DMain\ELibraryMgmtSystem\ELibraryMgmtSystem\bin\System.Web.WebPages.Razor.dll
+D:\☻\M4\Angular\myDemos\LABS\Sprint-2\DMain\ELibraryMgmtSystem\ELibraryMgmtSystem\bin\WebGrease.dll
+D:\☻\M4\Angular\myDemos\LABS\Sprint-2\DMain\ELibraryMgmtSystem\ELibraryMgmtSystem\bin\EntityFramework.xml
+D:\☻\M4\Angular\myDemos\LABS\Sprint-2\DMain\ELibraryMgmtSystem\ELibraryMgmtSystem\bin\EntityFramework.SqlServer.xml
+D:\☻\M4\Angular\myDemos\LABS\Sprint-2\DMain\ELibraryMgmtSystem\ELibraryMgmtSystem\bin\System.Web.Http.Cors.xml
+D:\☻\M4\Angular\myDemos\LABS\Sprint-2\DMain\ELibraryMgmtSystem\ELibraryMgmtSystem\bin\Newtonsoft.Json.xml
+D:\☻\M4\Angular\myDemos\LABS\Sprint-2\DMain\ELibraryMgmtSystem\ELibraryMgmtSystem\bin\System.Net.Http.Formatting.xml
+D:\☻\M4\Angular\myDemos\LABS\Sprint-2\DMain\ELibraryMgmtSystem\ELibraryMgmtSystem\bin\System.Web.Helpers.xml
+D:\☻\M4\Angular\myDemos\LABS\Sprint-2\DMain\ELibraryMgmtSystem\ELibraryMgmtSystem\bin\System.Web.Http.xml
+D:\☻\M4\Angular\myDemos\LABS\Sprint-2\DMain\ELibraryMgmtSystem\ELibraryMgmtSystem\bin\System.Web.Http.WebHost.xml
+D:\☻\M4\Angular\myDemos\LABS\Sprint-2\DMain\ELibraryMgmtSystem\ELibraryMgmtSystem\bin\System.Web.Mvc.xml
+D:\☻\M4\Angular\myDemos\LABS\Sprint-2\DMain\ELibraryMgmtSystem\ELibraryMgmtSystem\bin\System.Web.Optimization.xml
+D:\☻\M4\Angular\myDemos\LABS\Sprint-2\DMain\ELibraryMgmtSystem\ELibraryMgmtSystem\bin\System.Web.Razor.xml
+D:\☻\M4\Angular\myDemos\LABS\Sprint-2\DMain\ELibraryMgmtSystem\ELibraryMgmtSystem\bin\System.Web.WebPages.xml
+D:\☻\M4\Angular\myDemos\LABS\Sprint-2\DMain\ELibraryMgmtSystem\ELibraryMgmtSystem\bin\System.Web.WebPages.Deployment.xml
+D:\☻\M4\Angular\myDemos\LABS\Sprint-2\DMain\ELibraryMgmtSystem\ELibraryMgmtSystem\bin\System.Web.WebPages.Razor.xml
+D:\☻\M4\Angular\myDemos\LABS\Sprint-2\DMain\ELibraryMgmtSystem\ELibraryMgmtSystem\bin\Antlr3.Runtime.pdb
+D:\☻\M4\Angular\myDemos\LABS\Sprint-2\DMain\ELibraryMgmtSystem\ELibraryMgmtSystem\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\☻\M4\Angular\myDemos\LABS\Sprint-2\DMain\ELibraryMgmtSystem\ELibraryMgmtSystem\obj\Debug\ELibraryMgmtSystem.csprojAssemblyReference.cache
+D:\☻\M4\Angular\myDemos\LABS\Sprint-2\DMain\ELibraryMgmtSystem\ELibraryMgmtSystem\obj\Debug\ELibraryMgmtSystem.csproj.CopyComplete
+D:\☻\M4\Angular\myDemos\LABS\Sprint-2\DMain\ELibraryMgmtSystem\ELibraryMgmtSystem\obj\Debug\ELibraryMgmtSystem.dll
+D:\☻\M4\Angular\myDemos\LABS\Sprint-2\DMain\ELibraryMgmtSystem\ELibraryMgmtSystem\obj\Debug\ELibraryMgmtSystem.pdb
+D:\DMain\ELibraryMgmtSystem\ELibraryMgmtSystem\bin\ELibraryMgmtSystem.dll.config
+D:\DMain\ELibraryMgmtSystem\ELibraryMgmtSystem\bin\ELibraryMgmtSystem.dll
+D:\DMain\ELibraryMgmtSystem\ELibraryMgmtSystem\bin\ELibraryMgmtSystem.pdb
+D:\DMain\ELibraryMgmtSystem\ELibraryMgmtSystem\bin\roslyn\csc.exe
+D:\DMain\ELibraryMgmtSystem\ELibraryMgmtSystem\bin\roslyn\csc.exe.config
+D:\DMain\ELibraryMgmtSystem\ELibraryMgmtSystem\bin\roslyn\csc.rsp
+D:\DMain\ELibraryMgmtSystem\ELibraryMgmtSystem\bin\roslyn\csi.exe
+D:\DMain\ELibraryMgmtSystem\ELibraryMgmtSystem\bin\roslyn\csi.exe.config
+D:\DMain\ELibraryMgmtSystem\ELibraryMgmtSystem\bin\roslyn\csi.rsp
+D:\DMain\ELibraryMgmtSystem\ELibraryMgmtSystem\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\DMain\ELibraryMgmtSystem\ELibraryMgmtSystem\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\DMain\ELibraryMgmtSystem\ELibraryMgmtSystem\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\DMain\ELibraryMgmtSystem\ELibraryMgmtSystem\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\DMain\ELibraryMgmtSystem\ELibraryMgmtSystem\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\DMain\ELibraryMgmtSystem\ELibraryMgmtSystem\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\DMain\ELibraryMgmtSystem\ELibraryMgmtSystem\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\DMain\ELibraryMgmtSystem\ELibraryMgmtSystem\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\DMain\ELibraryMgmtSystem\ELibraryMgmtSystem\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\DMain\ELibraryMgmtSystem\ELibraryMgmtSystem\bin\roslyn\Microsoft.Managed.Core.targets
+D:\DMain\ELibraryMgmtSystem\ELibraryMgmtSystem\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\DMain\ELibraryMgmtSystem\ELibraryMgmtSystem\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\DMain\ELibraryMgmtSystem\ELibraryMgmtSystem\bin\roslyn\System.AppContext.dll
+D:\DMain\ELibraryMgmtSystem\ELibraryMgmtSystem\bin\roslyn\System.Collections.Immutable.dll
+D:\DMain\ELibraryMgmtSystem\ELibraryMgmtSystem\bin\roslyn\System.Console.dll
+D:\DMain\ELibraryMgmtSystem\ELibraryMgmtSystem\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\DMain\ELibraryMgmtSystem\ELibraryMgmtSystem\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\DMain\ELibraryMgmtSystem\ELibraryMgmtSystem\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\DMain\ELibraryMgmtSystem\ELibraryMgmtSystem\bin\roslyn\System.Globalization.Calendars.dll
+D:\DMain\ELibraryMgmtSystem\ELibraryMgmtSystem\bin\roslyn\System.IO.Compression.dll
+D:\DMain\ELibraryMgmtSystem\ELibraryMgmtSystem\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\DMain\ELibraryMgmtSystem\ELibraryMgmtSystem\bin\roslyn\System.IO.FileSystem.dll
+D:\DMain\ELibraryMgmtSystem\ELibraryMgmtSystem\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\DMain\ELibraryMgmtSystem\ELibraryMgmtSystem\bin\roslyn\System.Net.Http.dll
+D:\DMain\ELibraryMgmtSystem\ELibraryMgmtSystem\bin\roslyn\System.Net.Sockets.dll
+D:\DMain\ELibraryMgmtSystem\ELibraryMgmtSystem\bin\roslyn\System.Reflection.Metadata.dll
+D:\DMain\ELibraryMgmtSystem\ELibraryMgmtSystem\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\DMain\ELibraryMgmtSystem\ELibraryMgmtSystem\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\DMain\ELibraryMgmtSystem\ELibraryMgmtSystem\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\DMain\ELibraryMgmtSystem\ELibraryMgmtSystem\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\DMain\ELibraryMgmtSystem\ELibraryMgmtSystem\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\DMain\ELibraryMgmtSystem\ELibraryMgmtSystem\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\DMain\ELibraryMgmtSystem\ELibraryMgmtSystem\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\DMain\ELibraryMgmtSystem\ELibraryMgmtSystem\bin\roslyn\System.ValueTuple.dll
+D:\DMain\ELibraryMgmtSystem\ELibraryMgmtSystem\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\DMain\ELibraryMgmtSystem\ELibraryMgmtSystem\bin\roslyn\System.Xml.XmlDocument.dll
+D:\DMain\ELibraryMgmtSystem\ELibraryMgmtSystem\bin\roslyn\System.Xml.XPath.dll
+D:\DMain\ELibraryMgmtSystem\ELibraryMgmtSystem\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\DMain\ELibraryMgmtSystem\ELibraryMgmtSystem\bin\roslyn\vbc.exe
+D:\DMain\ELibraryMgmtSystem\ELibraryMgmtSystem\bin\roslyn\vbc.exe.config
+D:\DMain\ELibraryMgmtSystem\ELibraryMgmtSystem\bin\roslyn\vbc.rsp
+D:\DMain\ELibraryMgmtSystem\ELibraryMgmtSystem\bin\roslyn\VBCSCompiler.exe
+D:\DMain\ELibraryMgmtSystem\ELibraryMgmtSystem\bin\roslyn\VBCSCompiler.exe.config
+D:\DMain\ELibraryMgmtSystem\ELibraryMgmtSystem\bin\Antlr3.Runtime.dll
+D:\DMain\ELibraryMgmtSystem\ELibraryMgmtSystem\bin\EntityFramework.dll
+D:\DMain\ELibraryMgmtSystem\ELibraryMgmtSystem\bin\EntityFramework.SqlServer.dll
+D:\DMain\ELibraryMgmtSystem\ELibraryMgmtSystem\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\DMain\ELibraryMgmtSystem\ELibraryMgmtSystem\bin\Microsoft.Web.Infrastructure.dll
+D:\DMain\ELibraryMgmtSystem\ELibraryMgmtSystem\bin\Newtonsoft.Json.dll
+D:\DMain\ELibraryMgmtSystem\ELibraryMgmtSystem\bin\System.Net.Http.Formatting.dll
+D:\DMain\ELibraryMgmtSystem\ELibraryMgmtSystem\bin\System.Web.Cors.dll
+D:\DMain\ELibraryMgmtSystem\ELibraryMgmtSystem\bin\System.Web.Helpers.dll
+D:\DMain\ELibraryMgmtSystem\ELibraryMgmtSystem\bin\System.Web.Http.Cors.dll
+D:\DMain\ELibraryMgmtSystem\ELibraryMgmtSystem\bin\System.Web.Http.dll
+D:\DMain\ELibraryMgmtSystem\ELibraryMgmtSystem\bin\System.Web.Http.WebHost.dll
+D:\DMain\ELibraryMgmtSystem\ELibraryMgmtSystem\bin\System.Web.Mvc.dll
+D:\DMain\ELibraryMgmtSystem\ELibraryMgmtSystem\bin\System.Web.Optimization.dll
+D:\DMain\ELibraryMgmtSystem\ELibraryMgmtSystem\bin\System.Web.Razor.dll
+D:\DMain\ELibraryMgmtSystem\ELibraryMgmtSystem\bin\System.Web.WebPages.Deployment.dll
+D:\DMain\ELibraryMgmtSystem\ELibraryMgmtSystem\bin\System.Web.WebPages.dll
+D:\DMain\ELibraryMgmtSystem\ELibraryMgmtSystem\bin\System.Web.WebPages.Razor.dll
+D:\DMain\ELibraryMgmtSystem\ELibraryMgmtSystem\bin\WebGrease.dll
+D:\DMain\ELibraryMgmtSystem\ELibraryMgmtSystem\bin\EntityFramework.xml
+D:\DMain\ELibraryMgmtSystem\ELibraryMgmtSystem\bin\EntityFramework.SqlServer.xml
+D:\DMain\ELibraryMgmtSystem\ELibraryMgmtSystem\bin\System.Web.Http.Cors.xml
+D:\DMain\ELibraryMgmtSystem\ELibraryMgmtSystem\bin\Newtonsoft.Json.xml
+D:\DMain\ELibraryMgmtSystem\ELibraryMgmtSystem\bin\System.Net.Http.Formatting.xml
+D:\DMain\ELibraryMgmtSystem\ELibraryMgmtSystem\bin\System.Web.Helpers.xml
+D:\DMain\ELibraryMgmtSystem\ELibraryMgmtSystem\bin\System.Web.Http.xml
+D:\DMain\ELibraryMgmtSystem\ELibraryMgmtSystem\bin\System.Web.Http.WebHost.xml
+D:\DMain\ELibraryMgmtSystem\ELibraryMgmtSystem\bin\System.Web.Mvc.xml
+D:\DMain\ELibraryMgmtSystem\ELibraryMgmtSystem\bin\System.Web.Optimization.xml
+D:\DMain\ELibraryMgmtSystem\ELibraryMgmtSystem\bin\System.Web.Razor.xml
+D:\DMain\ELibraryMgmtSystem\ELibraryMgmtSystem\bin\System.Web.WebPages.xml
+D:\DMain\ELibraryMgmtSystem\ELibraryMgmtSystem\bin\System.Web.WebPages.Deployment.xml
+D:\DMain\ELibraryMgmtSystem\ELibraryMgmtSystem\bin\System.Web.WebPages.Razor.xml
+D:\DMain\ELibraryMgmtSystem\ELibraryMgmtSystem\bin\Antlr3.Runtime.pdb
+D:\DMain\ELibraryMgmtSystem\ELibraryMgmtSystem\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\DMain\ELibraryMgmtSystem\ELibraryMgmtSystem\obj\Debug\ELibraryMgmtSystem.csproj.CopyComplete
+D:\DMain\ELibraryMgmtSystem\ELibraryMgmtSystem\obj\Debug\ELibraryMgmtSystem.dll
+D:\DMain\ELibraryMgmtSystem\ELibraryMgmtSystem\obj\Debug\ELibraryMgmtSystem.pdb
+D:\DMain\ELibraryMgmtSystem\ELibraryMgmtSystem\obj\Debug\ELibraryMgmtSystem.csprojAssemblyReference.cache
+F:\Angular Final Prpoject\Main\ELibraryMgmtSystem\ELibraryMgmtSystem\bin\ELibraryMgmtSystem.dll.config
+F:\Angular Final Prpoject\Main\ELibraryMgmtSystem\ELibraryMgmtSystem\bin\ELibraryMgmtSystem.dll
+F:\Angular Final Prpoject\Main\ELibraryMgmtSystem\ELibraryMgmtSystem\bin\ELibraryMgmtSystem.pdb
+F:\Angular Final Prpoject\Main\ELibraryMgmtSystem\ELibraryMgmtSystem\bin\roslyn\csc.exe
+F:\Angular Final Prpoject\Main\ELibraryMgmtSystem\ELibraryMgmtSystem\bin\roslyn\csc.exe.config
+F:\Angular Final Prpoject\Main\ELibraryMgmtSystem\ELibraryMgmtSystem\bin\roslyn\csc.rsp
+F:\Angular Final Prpoject\Main\ELibraryMgmtSystem\ELibraryMgmtSystem\bin\roslyn\csi.exe
+F:\Angular Final Prpoject\Main\ELibraryMgmtSystem\ELibraryMgmtSystem\bin\roslyn\csi.exe.config
+F:\Angular Final Prpoject\Main\ELibraryMgmtSystem\ELibraryMgmtSystem\bin\roslyn\csi.rsp
+F:\Angular Final Prpoject\Main\ELibraryMgmtSystem\ELibraryMgmtSystem\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+F:\Angular Final Prpoject\Main\ELibraryMgmtSystem\ELibraryMgmtSystem\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+F:\Angular Final Prpoject\Main\ELibraryMgmtSystem\ELibraryMgmtSystem\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+F:\Angular Final Prpoject\Main\ELibraryMgmtSystem\ELibraryMgmtSystem\bin\roslyn\Microsoft.CodeAnalysis.dll
+F:\Angular Final Prpoject\Main\ELibraryMgmtSystem\ELibraryMgmtSystem\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+F:\Angular Final Prpoject\Main\ELibraryMgmtSystem\ELibraryMgmtSystem\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\Angular Final Prpoject\Main\ELibraryMgmtSystem\ELibraryMgmtSystem\bin\roslyn\Microsoft.CSharp.Core.targets
+F:\Angular Final Prpoject\Main\ELibraryMgmtSystem\ELibraryMgmtSystem\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+F:\Angular Final Prpoject\Main\ELibraryMgmtSystem\ELibraryMgmtSystem\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+F:\Angular Final Prpoject\Main\ELibraryMgmtSystem\ELibraryMgmtSystem\bin\roslyn\Microsoft.Managed.Core.targets
+F:\Angular Final Prpoject\Main\ELibraryMgmtSystem\ELibraryMgmtSystem\bin\roslyn\Microsoft.VisualBasic.Core.targets
+F:\Angular Final Prpoject\Main\ELibraryMgmtSystem\ELibraryMgmtSystem\bin\roslyn\Microsoft.Win32.Primitives.dll
+F:\Angular Final Prpoject\Main\ELibraryMgmtSystem\ELibraryMgmtSystem\bin\roslyn\System.AppContext.dll
+F:\Angular Final Prpoject\Main\ELibraryMgmtSystem\ELibraryMgmtSystem\bin\roslyn\System.Collections.Immutable.dll
+F:\Angular Final Prpoject\Main\ELibraryMgmtSystem\ELibraryMgmtSystem\bin\roslyn\System.Console.dll
+F:\Angular Final Prpoject\Main\ELibraryMgmtSystem\ELibraryMgmtSystem\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+F:\Angular Final Prpoject\Main\ELibraryMgmtSystem\ELibraryMgmtSystem\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+F:\Angular Final Prpoject\Main\ELibraryMgmtSystem\ELibraryMgmtSystem\bin\roslyn\System.Diagnostics.StackTrace.dll
+F:\Angular Final Prpoject\Main\ELibraryMgmtSystem\ELibraryMgmtSystem\bin\roslyn\System.Globalization.Calendars.dll
+F:\Angular Final Prpoject\Main\ELibraryMgmtSystem\ELibraryMgmtSystem\bin\roslyn\System.IO.Compression.dll
+F:\Angular Final Prpoject\Main\ELibraryMgmtSystem\ELibraryMgmtSystem\bin\roslyn\System.IO.Compression.ZipFile.dll
+F:\Angular Final Prpoject\Main\ELibraryMgmtSystem\ELibraryMgmtSystem\bin\roslyn\System.IO.FileSystem.dll
+F:\Angular Final Prpoject\Main\ELibraryMgmtSystem\ELibraryMgmtSystem\bin\roslyn\System.IO.FileSystem.Primitives.dll
+F:\Angular Final Prpoject\Main\ELibraryMgmtSystem\ELibraryMgmtSystem\bin\roslyn\System.Net.Http.dll
+F:\Angular Final Prpoject\Main\ELibraryMgmtSystem\ELibraryMgmtSystem\bin\roslyn\System.Net.Sockets.dll
+F:\Angular Final Prpoject\Main\ELibraryMgmtSystem\ELibraryMgmtSystem\bin\roslyn\System.Reflection.Metadata.dll
+F:\Angular Final Prpoject\Main\ELibraryMgmtSystem\ELibraryMgmtSystem\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+F:\Angular Final Prpoject\Main\ELibraryMgmtSystem\ELibraryMgmtSystem\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+F:\Angular Final Prpoject\Main\ELibraryMgmtSystem\ELibraryMgmtSystem\bin\roslyn\System.Security.Cryptography.Encoding.dll
+F:\Angular Final Prpoject\Main\ELibraryMgmtSystem\ELibraryMgmtSystem\bin\roslyn\System.Security.Cryptography.Primitives.dll
+F:\Angular Final Prpoject\Main\ELibraryMgmtSystem\ELibraryMgmtSystem\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+F:\Angular Final Prpoject\Main\ELibraryMgmtSystem\ELibraryMgmtSystem\bin\roslyn\System.Text.Encoding.CodePages.dll
+F:\Angular Final Prpoject\Main\ELibraryMgmtSystem\ELibraryMgmtSystem\bin\roslyn\System.Threading.Tasks.Extensions.dll
+F:\Angular Final Prpoject\Main\ELibraryMgmtSystem\ELibraryMgmtSystem\bin\roslyn\System.ValueTuple.dll
+F:\Angular Final Prpoject\Main\ELibraryMgmtSystem\ELibraryMgmtSystem\bin\roslyn\System.Xml.ReaderWriter.dll
+F:\Angular Final Prpoject\Main\ELibraryMgmtSystem\ELibraryMgmtSystem\bin\roslyn\System.Xml.XmlDocument.dll
+F:\Angular Final Prpoject\Main\ELibraryMgmtSystem\ELibraryMgmtSystem\bin\roslyn\System.Xml.XPath.dll
+F:\Angular Final Prpoject\Main\ELibraryMgmtSystem\ELibraryMgmtSystem\bin\roslyn\System.Xml.XPath.XDocument.dll
+F:\Angular Final Prpoject\Main\ELibraryMgmtSystem\ELibraryMgmtSystem\bin\roslyn\vbc.exe
+F:\Angular Final Prpoject\Main\ELibraryMgmtSystem\ELibraryMgmtSystem\bin\roslyn\vbc.exe.config
+F:\Angular Final Prpoject\Main\ELibraryMgmtSystem\ELibraryMgmtSystem\bin\roslyn\vbc.rsp
+F:\Angular Final Prpoject\Main\ELibraryMgmtSystem\ELibraryMgmtSystem\bin\roslyn\VBCSCompiler.exe
+F:\Angular Final Prpoject\Main\ELibraryMgmtSystem\ELibraryMgmtSystem\bin\roslyn\VBCSCompiler.exe.config
+F:\Angular Final Prpoject\Main\ELibraryMgmtSystem\ELibraryMgmtSystem\bin\Antlr3.Runtime.dll
+F:\Angular Final Prpoject\Main\ELibraryMgmtSystem\ELibraryMgmtSystem\bin\EntityFramework.dll
+F:\Angular Final Prpoject\Main\ELibraryMgmtSystem\ELibraryMgmtSystem\bin\EntityFramework.SqlServer.dll
+F:\Angular Final Prpoject\Main\ELibraryMgmtSystem\ELibraryMgmtSystem\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\Angular Final Prpoject\Main\ELibraryMgmtSystem\ELibraryMgmtSystem\bin\Microsoft.Web.Infrastructure.dll
+F:\Angular Final Prpoject\Main\ELibraryMgmtSystem\ELibraryMgmtSystem\bin\Newtonsoft.Json.dll
+F:\Angular Final Prpoject\Main\ELibraryMgmtSystem\ELibraryMgmtSystem\bin\System.Net.Http.Formatting.dll
+F:\Angular Final Prpoject\Main\ELibraryMgmtSystem\ELibraryMgmtSystem\bin\System.Web.Cors.dll
+F:\Angular Final Prpoject\Main\ELibraryMgmtSystem\ELibraryMgmtSystem\bin\System.Web.Helpers.dll
+F:\Angular Final Prpoject\Main\ELibraryMgmtSystem\ELibraryMgmtSystem\bin\System.Web.Http.Cors.dll
+F:\Angular Final Prpoject\Main\ELibraryMgmtSystem\ELibraryMgmtSystem\bin\System.Web.Http.dll
+F:\Angular Final Prpoject\Main\ELibraryMgmtSystem\ELibraryMgmtSystem\bin\System.Web.Http.WebHost.dll
+F:\Angular Final Prpoject\Main\ELibraryMgmtSystem\ELibraryMgmtSystem\bin\System.Web.Mvc.dll
+F:\Angular Final Prpoject\Main\ELibraryMgmtSystem\ELibraryMgmtSystem\bin\System.Web.Optimization.dll
+F:\Angular Final Prpoject\Main\ELibraryMgmtSystem\ELibraryMgmtSystem\bin\System.Web.Razor.dll
+F:\Angular Final Prpoject\Main\ELibraryMgmtSystem\ELibraryMgmtSystem\bin\System.Web.WebPages.Deployment.dll
+F:\Angular Final Prpoject\Main\ELibraryMgmtSystem\ELibraryMgmtSystem\bin\System.Web.WebPages.dll
+F:\Angular Final Prpoject\Main\ELibraryMgmtSystem\ELibraryMgmtSystem\bin\System.Web.WebPages.Razor.dll
+F:\Angular Final Prpoject\Main\ELibraryMgmtSystem\ELibraryMgmtSystem\bin\WebGrease.dll
+F:\Angular Final Prpoject\Main\ELibraryMgmtSystem\ELibraryMgmtSystem\bin\EntityFramework.xml
+F:\Angular Final Prpoject\Main\ELibraryMgmtSystem\ELibraryMgmtSystem\bin\EntityFramework.SqlServer.xml
+F:\Angular Final Prpoject\Main\ELibraryMgmtSystem\ELibraryMgmtSystem\bin\System.Web.Http.Cors.xml
+F:\Angular Final Prpoject\Main\ELibraryMgmtSystem\ELibraryMgmtSystem\bin\Newtonsoft.Json.xml
+F:\Angular Final Prpoject\Main\ELibraryMgmtSystem\ELibraryMgmtSystem\bin\System.Net.Http.Formatting.xml
+F:\Angular Final Prpoject\Main\ELibraryMgmtSystem\ELibraryMgmtSystem\bin\System.Web.Helpers.xml
+F:\Angular Final Prpoject\Main\ELibraryMgmtSystem\ELibraryMgmtSystem\bin\System.Web.Http.xml
+F:\Angular Final Prpoject\Main\ELibraryMgmtSystem\ELibraryMgmtSystem\bin\System.Web.Http.WebHost.xml
+F:\Angular Final Prpoject\Main\ELibraryMgmtSystem\ELibraryMgmtSystem\bin\System.Web.Mvc.xml
+F:\Angular Final Prpoject\Main\ELibraryMgmtSystem\ELibraryMgmtSystem\bin\System.Web.Optimization.xml
+F:\Angular Final Prpoject\Main\ELibraryMgmtSystem\ELibraryMgmtSystem\bin\System.Web.Razor.xml
+F:\Angular Final Prpoject\Main\ELibraryMgmtSystem\ELibraryMgmtSystem\bin\System.Web.WebPages.xml
+F:\Angular Final Prpoject\Main\ELibraryMgmtSystem\ELibraryMgmtSystem\bin\System.Web.WebPages.Deployment.xml
+F:\Angular Final Prpoject\Main\ELibraryMgmtSystem\ELibraryMgmtSystem\bin\System.Web.WebPages.Razor.xml
+F:\Angular Final Prpoject\Main\ELibraryMgmtSystem\ELibraryMgmtSystem\bin\Antlr3.Runtime.pdb
+F:\Angular Final Prpoject\Main\ELibraryMgmtSystem\ELibraryMgmtSystem\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\Angular Final Prpoject\Main\ELibraryMgmtSystem\ELibraryMgmtSystem\obj\Debug\ELibraryMgmtSystem.csprojAssemblyReference.cache
+F:\Angular Final Prpoject\Main\ELibraryMgmtSystem\ELibraryMgmtSystem\obj\Debug\ELibraryMgmtSystem.csproj.CoreCompileInputs.cache
+F:\Angular Final Prpoject\Main\ELibraryMgmtSystem\ELibraryMgmtSystem\obj\Debug\ELibraryMgmtSystem.csproj.CopyComplete
+F:\Angular Final Prpoject\Main\ELibraryMgmtSystem\ELibraryMgmtSystem\obj\Debug\ELibraryMgmtSystem.dll
+F:\Angular Final Prpoject\Main\ELibraryMgmtSystem\ELibraryMgmtSystem\obj\Debug\ELibraryMgmtSystem.pdb

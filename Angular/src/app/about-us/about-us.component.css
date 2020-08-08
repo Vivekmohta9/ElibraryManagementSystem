@@ -1,0 +1,10 @@
+.div1 {
+    text-align: justify;
+    background-color: lightcyan;
+    width: 850px;
+    height: 280px;
+    border: 10px solid green;
+    padding: 30px;
+    margin: 20px;
+    font-size: large;
+}

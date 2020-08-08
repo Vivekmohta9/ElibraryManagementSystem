@@ -1,0 +1,127 @@
+        <form class="col s12 white" #UserRegistrationForm="ngForm" (ngSubmit)="addUser(UserRegistrationForm)">
+            <script src= "https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+            <script src="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0/js/materialize.min.js"></script>
+            <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+            <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0/css/materialize.min.css">
+            <div class="row">
+                <div class="input-field col s6">
+                    <input type="text" name="UserName" placeholder="Name" #UserName="ngModel" [(ngModel)]="service.userDetails.UserName" required>
+                    <!-- <label>Name</label> -->
+                </div>
+                <div class="input-field col s6">
+                    <input type="text" name="UserAddress" placeholder="Address" #UserAddress="ngModel" [(ngModel)]="service.userDetails.UserAddress" required>
+                    <!-- <label>Address</label> -->
+                </div>
+            </div>
+            <div class="row">
+                <div class="input-field col s6">
+                    <input type="text" name="UserPhoneNumber" placeholder="Phone Number" #UserPhNumber="ngModel" [(ngModel)]="service.userDetails.UserPhoneNumber" required>
+                    <!-- <label>Phone Number</label> -->
+                </div>
+                <div class="input-field col s6">
+                    <input type="text" name="UserInterest" placeholder="Interest" #UserInterest="ngModel" [(ngModel)]="service.userDetails.UserInterest" required>
+                    <!-- <label>Interest</label> -->
+                </div>
+            </div>
+            <div class="row">
+                <div class="input-field col s12">
+                    <input type="text" name="UserEmail" placeholder="Email Id" class="validate" #UserEmail="ngModel" [(ngModel)]="service.userDetails.UserEmail">
+                    <!-- <label data-error="invalid email">Email Id</label> -->
+                </div>                    
+            </div>
+            <div class="row">
+                <div class="input-field col s6">
+                    <input type="password" name="UserPassword" placeholder="Password" #UserPassword="ngModel" [(ngModel)]="service.userDetails.UserPassword" required>
+                    <!-- <label>Password</label> -->
+                </div>
+
+                <mat-select class="input-field col s6" name="UserTypeId" #UserType="ngModel" [(ngModel)]="service.userDetails.UserTypeId" placeholder="UserType">                    
+                    <mat-option value=1>Subscriber</mat-option>
+                    <mat-option value=2>Non Subscriber</mat-option>
+                </mat-select>                
+
+                <!-- <div class="input-field col s6">
+                    <input type="number" name="UserTypeId" placeholder="Type" #UserType="ngModel" [(ngModel)]="service.userDetails.UserTypeId" required>
+                     <label>Type</label>
+                </div> -->
+            </div>
+            <div class="row">
+                <div class="input-field col s12">
+                    <input type="text" name="UserCreditCardNumber" placeholder="Card Number" #UserCreditCardNumber="ngModel" [(ngModel)]="service.userDetails.UserCreditCardNumber" required>
+                    <!-- <label>Card Number</label> -->
+                </div>
+            </div>
+            <div class="row">
+                <div class="input-field col s6">
+                    <input type="text" name="UserCreditCardExpiryDate" placeholder="Card Expiry" #UserCreditCardExpiryDate="ngModel" [(ngModel)]="service.userDetails.UserCreditCardExpiryDate" required>
+                    <!-- <label>Card Expiry</label> -->
+                </div>
+                <div class="input-field col s6">
+                    <input type="number" name="UserCreditCardCVV" placeholder="card CVV" #UserCreditCardCVV="ngModel" [(ngModel)]="service.userDetails.UserCreditCardCVV" required>
+                    <!-- <label>Card CVV</label> -->
+                </div>
+            </div>
+            <div class="row">
+                <div *ngIf="service.userDetails.UserTypeId==1" class="input-field col s11" align="right">
+                    <input [disabled]="!UserRegistrationForm.valid" class="btn-small btn-submit" type="button" value="Next" routerLink="/subspay"> 
+                </div>
+                <div *ngIf="service.userDetails.UserTypeId==2" class="input-field col s11" align="right">
+                    <button [disabled]="!UserRegistrationForm.valid" class="btn-large btn-submit" type="submit">Submit</button>
+                </div>
+            </div>
+            
+            
+            <!-- <div class="row">
+                <div class="input-field col s12">
+                    <input class="validate" type="text" name="Name" required>
+                    <label data-error="Required field!">Name</label>
+                </div>
+            </div>
+            <div class="row">
+                <div class="input-field col s12">
+                    <input class="validate" type="text" name="Address"  required>
+                    <label data-error="Required field!">Address</label>
+                </div>
+            </div>
+            <div class="row">
+                <div class="input-field col s12">
+                    <input class="validate" type="text" name="ContactDetails"  required>
+                    <label data-error="Required field!">ContactDetails</label>
+                </div>
+            </div>
+            <div class="row">
+                <div class="input-field col s12">
+                    <input class="validate" type="text" name="AreaofInterest" required>
+                    <label data-error="Required field!">AreaofInterest</label>
+                </div>
+            </div>
+            <div class="row">
+                <div class="input-field col s12">
+                    <input class="validate" type="text" name="Email">
+                    <label data-error="Invalid email!">Email</label>
+                </div>
+            </div>
+        <div class="row">
+            <div class="input-field col s12">
+                <input class="validate" type="text" name="UserName" required>
+                <label data-error="Required field!">UserName</label>
+            </div>
+        </div>
+        <div class="row">
+            <div class="input-field col s12">
+                <input class="validate" type="password" name="Password" required  minlength="3">
+                <label>Password</label>
+            </div>
+        </div>
+        <div class="row">
+            <div class="input-field col s12">
+                <input class="validate" type="text" name="CreditCard" required>
+                <label data-error="Required field!">CreditCard</label>
+            </div>
+        </div>
+        <div class="row">
+            <div class="input-field col s6">
+                <button class="btn-large btn-submit" type="submit">Submit</button>
+            </div>
+            </div> -->
+        </form>
